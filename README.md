@@ -22,7 +22,7 @@ Though I am going to make my first step into the IT industry, but do not miss th
 If you feel you need someone like me in the team, let's connect and discuss.
 I love reading and cooking too. So, if not by profession, let's connect by mutual interest.
 
-📫 Please feel free to connect with me over my email: kpanchal5069@gmail.com or my phone: +1-226-201-2473.
+📫 Please feel free to connect with me over my email: kpanchal5069@gmail.com LinkedIn: https://www.linkedin.com/in/kishansunilkumarpanchal/ or my phone: +1-226-201-2473.
 
 
 <!---
