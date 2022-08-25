@@ -22,7 +22,7 @@ I love reading and cooking too. So, if not by profession, let's connect by mutua
 
 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/kishansunilkumarpanchal?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/kishansunilkumarpanchal)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)]([https://github.com/kishansunilkumarpanchal](https://github.com/kishansunilkumarpanchal/Kishan-Sunilkumar-Panchal/blob/main/README.md))
 
 <!---
 Kpanchal5069/Kpanchal5069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
