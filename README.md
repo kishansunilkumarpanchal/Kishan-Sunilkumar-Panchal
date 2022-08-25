@@ -1,7 +1,3 @@
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/kishansunilkumarpanchal?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/kishansunilkumarpanchal)
-
-
 Namaste🙏
 
 Thank you for taking your valuable time to know more about myself💞️. 
@@ -24,6 +20,9 @@ I love reading and cooking too. So, if not by profession, let's connect by mutua
 
 📫 Please feel free to connect with me over my [email](kpanchal5069@gmail.com), [LinkedIn](https://www.linkedin.com/in/kishansunilkumarpanchal/) or my phone: +1-226-201-2473.
 
+
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/kishansunilkumarpanchal?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/kishansunilkumarpanchal)
 
 <!---
 Kpanchal5069/Kpanchal5069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
