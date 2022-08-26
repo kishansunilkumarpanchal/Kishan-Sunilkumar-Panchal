@@ -6,12 +6,12 @@ I am actively looking 👀  for **an analyst position** to capitalise my problem
  
 🌱 In May-2022, I decided to pivot my career into the world of Data. I left my job as a Quality Assurance Specialist and enrolled my-self into an IBM Professional Data Analytics Certification and a Junior Data Analyst program offered by NPower Canada. After 4 months of rigorous study and practice, I have successfully enhanced my profile with Advance Excel, Advance Statistics, SQL, Python, Cloud Computing and Data Visualization skills. 
 
+Growing up in the Indian culture has helped me to be a **Competitive on field and a Joyful off field**. 
+I have worked as a Jr. Project Co-ordinator at one of the leading Green start up named Greenera Engineering. Working in an entrepreneurial environment, I had the pleasure of leveraging multiple responsibilities including web development, project documentation, scheduling, sales, and inventory control. Then, my interest in computer application started when I built a multi-webpage application that displayed the company, their product and contact information. I created multiple excel applications that helped to control inventory, track quality and manage sales reports.
+
 Previously working as a **Quality Assurance Specialist** and a **Customer Support Representative**, I have built the following skillset,
 * **Technical Tools:** Excel, Outlook, Word, PowerPoint, Lean methodology, SAP
 * **Soft skills:** Innovation, Effective Communication, Customer Service, Accountability, Collaboration
-
-Back in India, I had completed my Bachelor of Mechanical Engineering and then worked as a **Jr. Project Co-ordinator** at one of the leading Green start up named Greenera Engineering. Working in an entrepreneurial environment, I had the pleasure of leveraging multiple responsibilities including project documentation, scheduling, sales, and inventory control. 
-Growing up in the Indian culture has helped me to be a Competitive on field and off field a Jovial persona.
 
 Though I am going to make my first step into the IT industry, but do not miss that I am bringing 3+ years of combined experience providing satisfactory solutions in CEM, Manufacturing & Retail Industry. I am grateful for what I have achieved and am equally passionate about gaining more as this process is a full-fledged learning curve. I still am exploring, learning, and adding skills to my portfolio.
 
